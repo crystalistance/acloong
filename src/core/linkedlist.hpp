@@ -7,9 +7,15 @@
 
 namespace ac {
 
+    template <typename T>
     class LinkedList {
+    public:
+
+    private:
 
     };
+
+
 }
 
 
