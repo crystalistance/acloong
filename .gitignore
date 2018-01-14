@@ -37,3 +37,6 @@
 
 #os X
 *.DS_Store
+
+#linux ignore
+.idea/codeStyles/
